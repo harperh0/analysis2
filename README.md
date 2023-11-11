@@ -1,4 +1,4 @@
-# Analysis 2
+# Analysis2
 
 ## Introduction: 
 This Python script embarks on an illuminating course exercise, peeling back the layers of London's population changes. Navigating through a handful of probing questions, I delved into pivotal concepts like Timestamps, DateTimeIndexes, Timedeltas, Periods, and advanced hierarchical indexing (multi-index).
