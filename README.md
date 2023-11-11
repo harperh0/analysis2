@@ -1,7 +1,6 @@
 # About Analysis2
 
-## Introduction: Python Script for London Population Analysis
-
+## Introduction: 
 This Python script embarks on an illuminating course exercise, peeling back the layers of London's population changes. Navigating through a handful of probing questions, I delve into pivotal concepts like Timestamps, DateTimeIndexes, Timedeltas, Periods, and advanced hierarchical indexing (multi-index).
 
 ## Key Concepts Explored:
