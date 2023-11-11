@@ -1,4 +1,4 @@
-# Analysis2
+# Analysis 2
 
 ## Introduction: 
 This Python script embarks on an illuminating course exercise, peeling back the layers of London's population changes. Navigating through a handful of probing questions, I delved into pivotal concepts like Timestamps, DateTimeIndexes, Timedeltas, Periods, and advanced hierarchical indexing (multi-index).
@@ -16,7 +16,7 @@ The essence of this analysis lies in the pursuit of revelation and examination. 
 
 ## License:
 
-The code and associated files in the "Analysis2" project are the intellectual property of Hsin Pai. All rights are reserved by the copyright holder. This code is intended for the exclusive viewing of potential employers to assess the coding and analytical skills of Hsin Pai.
+The code and associated files in the "Analysis 2" project are the intellectual property of Hsin Pai. All rights are reserved by the copyright holder. This code is intended for the exclusive viewing of potential employers to assess the coding and analytical skills of Hsin Pai.
 
 Unauthorised use, reproduction, or distribution of this code, in whole or in part, without the written permission of Hsin Pai is strictly prohibited.
 
